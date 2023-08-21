@@ -3,7 +3,8 @@
     background-color: black;
     color: white;
     border-radius: 5px;
-	border-width: 0px;
+/* 	border-width: 0px; */
+	border: none;
 }
 #btn:hover{
     background-color: yellow;
